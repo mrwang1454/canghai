@@ -1,6 +1,4 @@
-# canghai
-
-沧海字体下载工具v1.0.1
+# 沧海字体下载工具v1.0.1
 
 更新日期：2024-6-21
 
@@ -18,3 +16,14 @@
 在文件夹中无法预览到字体的样式
 
 ![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-18_22-18-34.png)
+
+## 软件的主界面样式
+![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-19_10-07-00.jpg)
+
+## 软件预览样式
+![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-19_10-07-36.jpg)
+
+## 软件可自定义文字预览
+![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-19_10-09-15.jpg)
+
+大家要是喜欢可以下载安装体验：
