@@ -14,7 +14,6 @@
 
 ## 字体在文件夹中的表现：
 在文件夹中无法预览到字体的样式
-
 ![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-18_22-18-34.png)
 
 ## 软件的主界面样式
@@ -27,3 +26,29 @@
 ![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-19_10-09-15.jpg)
 
 大家要是喜欢可以下载安装体验：
+
+=======================================================================
+
+# Introduction in English
+
+**Update Date:** 2024-06-21
+
+### Update Content
+
+**Enhanced Compatibility:** Now supports quick identification and preview of fonts across different file directories, allowing users to easily manage font resources from various locations.
+
+**Improved User Experience:** During font preview, the software will directly display the actual name of the font, enabling users to recognize and manage fonts more intuitively.
+
+### Feature Introduction
+
+Canghai Font Download Tool is a simple and practical tool for font preview and installation. Traditionally, users had to manually search through folders and double-click font files to preview their styles. However, with this tool, users can preview all fonts with one click and easily select and install their favorite fonts.
+
+To maintain the software's lightweight and efficient nature, font files are not directly integrated into the program. Users can download fonts as needed and organize them into a unified directory for preview and installation through this tool. This not only reduces the software size but also enhances the flexibility of user customization.
+
+Canghai Font Download Tool is a simple and practical tool for font preview and installation. Traditionally, users had to manually search through folders and double-click font files to preview their styles. However, with this tool, users can preview all fonts with one click and easily select and install their favorite fonts.
+
+To maintain the software's lightweight and efficient nature, font files are not directly integrated into the program. Users can download fonts as needed and organize them into a unified directory for preview and installation through this tool. This not only reduces the software size but also enhances the flexibility of user customization.
+
+=======================================================================
+
+![image](https://github.com/mrwang1454/canghai/blob/main/images/zanshang.png)
