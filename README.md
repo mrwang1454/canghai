@@ -1,4 +1,4 @@
-# 沧海字体下载工具v1.0.1
+# 沧海字体下载工具v1.0.1  &   The English introduction is below.
 
 更新日期：2024-6-21
 
