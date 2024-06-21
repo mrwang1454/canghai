@@ -14,6 +14,7 @@
 
 ## 字体在文件夹中的表现：
 在文件夹中无法预览到字体的样式
+
 ![image](https://github.com/mrwang1454/canghai/blob/main/images/Snipaste_2024-06-18_22-18-34.png)
 
 ## 软件的主界面样式
